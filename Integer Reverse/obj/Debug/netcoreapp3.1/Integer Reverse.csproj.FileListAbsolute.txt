@@ -1,0 +1,12 @@
+D:\Algorithms\Integer Reverse\bin\Debug\netcoreapp3.1\Integer Reverse.exe
+D:\Algorithms\Integer Reverse\bin\Debug\netcoreapp3.1\Integer Reverse.deps.json
+D:\Algorithms\Integer Reverse\bin\Debug\netcoreapp3.1\Integer Reverse.runtimeconfig.json
+D:\Algorithms\Integer Reverse\bin\Debug\netcoreapp3.1\Integer Reverse.runtimeconfig.dev.json
+D:\Algorithms\Integer Reverse\bin\Debug\netcoreapp3.1\Integer Reverse.dll
+D:\Algorithms\Integer Reverse\bin\Debug\netcoreapp3.1\Integer Reverse.pdb
+D:\Algorithms\Integer Reverse\obj\Debug\netcoreapp3.1\Integer Reverse.AssemblyInfoInputs.cache
+D:\Algorithms\Integer Reverse\obj\Debug\netcoreapp3.1\Integer Reverse.AssemblyInfo.cs
+D:\Algorithms\Integer Reverse\obj\Debug\netcoreapp3.1\Integer Reverse.csproj.CoreCompileInputs.cache
+D:\Algorithms\Integer Reverse\obj\Debug\netcoreapp3.1\Integer Reverse.dll
+D:\Algorithms\Integer Reverse\obj\Debug\netcoreapp3.1\Integer Reverse.pdb
+D:\Algorithms\Integer Reverse\obj\Debug\netcoreapp3.1\Integer Reverse.genruntimeconfig.cache

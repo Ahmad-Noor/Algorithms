@@ -1,0 +1,13 @@
+D:\Algorithms\3-Merge Sort\bin\Debug\netcoreapp3.1\3-Merge Sort.exe
+D:\Algorithms\3-Merge Sort\bin\Debug\netcoreapp3.1\3-Merge Sort.deps.json
+D:\Algorithms\3-Merge Sort\bin\Debug\netcoreapp3.1\3-Merge Sort.runtimeconfig.json
+D:\Algorithms\3-Merge Sort\bin\Debug\netcoreapp3.1\3-Merge Sort.runtimeconfig.dev.json
+D:\Algorithms\3-Merge Sort\bin\Debug\netcoreapp3.1\3-Merge Sort.dll
+D:\Algorithms\3-Merge Sort\bin\Debug\netcoreapp3.1\3-Merge Sort.pdb
+D:\Algorithms\3-Merge Sort\obj\Debug\netcoreapp3.1\3-Merge Sort.csprojAssemblyReference.cache
+D:\Algorithms\3-Merge Sort\obj\Debug\netcoreapp3.1\3-Merge Sort.AssemblyInfoInputs.cache
+D:\Algorithms\3-Merge Sort\obj\Debug\netcoreapp3.1\3-Merge Sort.AssemblyInfo.cs
+D:\Algorithms\3-Merge Sort\obj\Debug\netcoreapp3.1\3-Merge Sort.csproj.CoreCompileInputs.cache
+D:\Algorithms\3-Merge Sort\obj\Debug\netcoreapp3.1\3-Merge Sort.dll
+D:\Algorithms\3-Merge Sort\obj\Debug\netcoreapp3.1\3-Merge Sort.pdb
+D:\Algorithms\3-Merge Sort\obj\Debug\netcoreapp3.1\3-Merge Sort.genruntimeconfig.cache

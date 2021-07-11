@@ -1,0 +1,13 @@
+D:\Algorithms\Remove Duplicate\bin\Debug\netcoreapp3.1\Remove Duplicate.exe
+D:\Algorithms\Remove Duplicate\bin\Debug\netcoreapp3.1\Remove Duplicate.deps.json
+D:\Algorithms\Remove Duplicate\bin\Debug\netcoreapp3.1\Remove Duplicate.runtimeconfig.json
+D:\Algorithms\Remove Duplicate\bin\Debug\netcoreapp3.1\Remove Duplicate.runtimeconfig.dev.json
+D:\Algorithms\Remove Duplicate\bin\Debug\netcoreapp3.1\Remove Duplicate.dll
+D:\Algorithms\Remove Duplicate\bin\Debug\netcoreapp3.1\Remove Duplicate.pdb
+D:\Algorithms\Remove Duplicate\obj\Debug\netcoreapp3.1\Remove Duplicate.AssemblyInfoInputs.cache
+D:\Algorithms\Remove Duplicate\obj\Debug\netcoreapp3.1\Remove Duplicate.AssemblyInfo.cs
+D:\Algorithms\Remove Duplicate\obj\Debug\netcoreapp3.1\Remove Duplicate.csproj.CoreCompileInputs.cache
+D:\Algorithms\Remove Duplicate\obj\Debug\netcoreapp3.1\Remove Duplicate.dll
+D:\Algorithms\Remove Duplicate\obj\Debug\netcoreapp3.1\Remove Duplicate.pdb
+D:\Algorithms\Remove Duplicate\obj\Debug\netcoreapp3.1\Remove Duplicate.genruntimeconfig.cache
+D:\Algorithms\Remove Duplicate\obj\Debug\netcoreapp3.1\Remove Duplicate.csprojAssemblyReference.cache

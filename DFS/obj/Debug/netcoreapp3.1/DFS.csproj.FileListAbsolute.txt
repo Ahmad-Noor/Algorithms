@@ -1,0 +1,9 @@
+D:\Algorithms\DFS\bin\Debug\netcoreapp3.1\DFS.deps.json
+D:\Algorithms\DFS\bin\Debug\netcoreapp3.1\DFS.dll
+D:\Algorithms\DFS\bin\Debug\netcoreapp3.1\DFS.pdb
+D:\Algorithms\DFS\obj\Debug\netcoreapp3.1\DFS.csprojAssemblyReference.cache
+D:\Algorithms\DFS\obj\Debug\netcoreapp3.1\DFS.AssemblyInfoInputs.cache
+D:\Algorithms\DFS\obj\Debug\netcoreapp3.1\DFS.AssemblyInfo.cs
+D:\Algorithms\DFS\obj\Debug\netcoreapp3.1\DFS.csproj.CoreCompileInputs.cache
+D:\Algorithms\DFS\obj\Debug\netcoreapp3.1\DFS.dll
+D:\Algorithms\DFS\obj\Debug\netcoreapp3.1\DFS.pdb

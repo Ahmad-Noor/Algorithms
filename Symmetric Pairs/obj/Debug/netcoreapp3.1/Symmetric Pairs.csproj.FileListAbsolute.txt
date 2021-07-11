@@ -1,0 +1,12 @@
+D:\Algorithms\Symmetric Pairs\bin\Debug\netcoreapp3.1\Symmetric Pairs.exe
+D:\Algorithms\Symmetric Pairs\bin\Debug\netcoreapp3.1\Symmetric Pairs.deps.json
+D:\Algorithms\Symmetric Pairs\bin\Debug\netcoreapp3.1\Symmetric Pairs.runtimeconfig.json
+D:\Algorithms\Symmetric Pairs\bin\Debug\netcoreapp3.1\Symmetric Pairs.runtimeconfig.dev.json
+D:\Algorithms\Symmetric Pairs\bin\Debug\netcoreapp3.1\Symmetric Pairs.dll
+D:\Algorithms\Symmetric Pairs\bin\Debug\netcoreapp3.1\Symmetric Pairs.pdb
+D:\Algorithms\Symmetric Pairs\obj\Debug\netcoreapp3.1\Symmetric Pairs.AssemblyInfoInputs.cache
+D:\Algorithms\Symmetric Pairs\obj\Debug\netcoreapp3.1\Symmetric Pairs.AssemblyInfo.cs
+D:\Algorithms\Symmetric Pairs\obj\Debug\netcoreapp3.1\Symmetric Pairs.csproj.CoreCompileInputs.cache
+D:\Algorithms\Symmetric Pairs\obj\Debug\netcoreapp3.1\Symmetric Pairs.dll
+D:\Algorithms\Symmetric Pairs\obj\Debug\netcoreapp3.1\Symmetric Pairs.pdb
+D:\Algorithms\Symmetric Pairs\obj\Debug\netcoreapp3.1\Symmetric Pairs.genruntimeconfig.cache

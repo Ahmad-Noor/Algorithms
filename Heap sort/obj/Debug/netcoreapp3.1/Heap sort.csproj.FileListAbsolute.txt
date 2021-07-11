@@ -1,0 +1,12 @@
+D:\Algorithms\Heap sort\bin\Debug\netcoreapp3.1\Heap sort.exe
+D:\Algorithms\Heap sort\bin\Debug\netcoreapp3.1\Heap sort.deps.json
+D:\Algorithms\Heap sort\bin\Debug\netcoreapp3.1\Heap sort.runtimeconfig.json
+D:\Algorithms\Heap sort\bin\Debug\netcoreapp3.1\Heap sort.runtimeconfig.dev.json
+D:\Algorithms\Heap sort\bin\Debug\netcoreapp3.1\Heap sort.dll
+D:\Algorithms\Heap sort\bin\Debug\netcoreapp3.1\Heap sort.pdb
+D:\Algorithms\Heap sort\obj\Debug\netcoreapp3.1\Heap sort.AssemblyInfoInputs.cache
+D:\Algorithms\Heap sort\obj\Debug\netcoreapp3.1\Heap sort.AssemblyInfo.cs
+D:\Algorithms\Heap sort\obj\Debug\netcoreapp3.1\Heap sort.csproj.CoreCompileInputs.cache
+D:\Algorithms\Heap sort\obj\Debug\netcoreapp3.1\Heap sort.dll
+D:\Algorithms\Heap sort\obj\Debug\netcoreapp3.1\Heap sort.pdb
+D:\Algorithms\Heap sort\obj\Debug\netcoreapp3.1\Heap sort.genruntimeconfig.cache

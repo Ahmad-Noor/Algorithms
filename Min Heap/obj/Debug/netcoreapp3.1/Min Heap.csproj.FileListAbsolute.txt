@@ -1,0 +1,12 @@
+D:\Algorithms\Min Heap\obj\Debug\netcoreapp3.1\Min Heap.AssemblyInfoInputs.cache
+D:\Algorithms\Min Heap\obj\Debug\netcoreapp3.1\Min Heap.AssemblyInfo.cs
+D:\Algorithms\Min Heap\obj\Debug\netcoreapp3.1\Min Heap.csproj.CoreCompileInputs.cache
+D:\Algorithms\Min Heap\bin\Debug\netcoreapp3.1\Min Heap.exe
+D:\Algorithms\Min Heap\bin\Debug\netcoreapp3.1\Min Heap.deps.json
+D:\Algorithms\Min Heap\bin\Debug\netcoreapp3.1\Min Heap.runtimeconfig.json
+D:\Algorithms\Min Heap\bin\Debug\netcoreapp3.1\Min Heap.runtimeconfig.dev.json
+D:\Algorithms\Min Heap\bin\Debug\netcoreapp3.1\Min Heap.dll
+D:\Algorithms\Min Heap\bin\Debug\netcoreapp3.1\Min Heap.pdb
+D:\Algorithms\Min Heap\obj\Debug\netcoreapp3.1\Min Heap.dll
+D:\Algorithms\Min Heap\obj\Debug\netcoreapp3.1\Min Heap.pdb
+D:\Algorithms\Min Heap\obj\Debug\netcoreapp3.1\Min Heap.genruntimeconfig.cache

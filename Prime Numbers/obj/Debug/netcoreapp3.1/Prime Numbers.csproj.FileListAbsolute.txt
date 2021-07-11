@@ -1,0 +1,13 @@
+D:\Algorithms\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.exe
+D:\Algorithms\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.deps.json
+D:\Algorithms\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.runtimeconfig.json
+D:\Algorithms\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.runtimeconfig.dev.json
+D:\Algorithms\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.dll
+D:\Algorithms\Prime Numbers\bin\Debug\netcoreapp3.1\Prime Numbers.pdb
+D:\Algorithms\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.csprojAssemblyReference.cache
+D:\Algorithms\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.AssemblyInfoInputs.cache
+D:\Algorithms\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.AssemblyInfo.cs
+D:\Algorithms\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.csproj.CoreCompileInputs.cache
+D:\Algorithms\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.dll
+D:\Algorithms\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.pdb
+D:\Algorithms\Prime Numbers\obj\Debug\netcoreapp3.1\Prime Numbers.genruntimeconfig.cache

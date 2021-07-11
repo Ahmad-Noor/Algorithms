@@ -1,0 +1,13 @@
+D:\Algorithms\Quick Sort Algorithm\bin\Debug\netcoreapp3.1\Quick Sort Algorithm.exe
+D:\Algorithms\Quick Sort Algorithm\bin\Debug\netcoreapp3.1\Quick Sort Algorithm.deps.json
+D:\Algorithms\Quick Sort Algorithm\bin\Debug\netcoreapp3.1\Quick Sort Algorithm.runtimeconfig.json
+D:\Algorithms\Quick Sort Algorithm\bin\Debug\netcoreapp3.1\Quick Sort Algorithm.runtimeconfig.dev.json
+D:\Algorithms\Quick Sort Algorithm\bin\Debug\netcoreapp3.1\Quick Sort Algorithm.dll
+D:\Algorithms\Quick Sort Algorithm\bin\Debug\netcoreapp3.1\Quick Sort Algorithm.pdb
+D:\Algorithms\Quick Sort Algorithm\obj\Debug\netcoreapp3.1\Quick Sort Algorithm.csprojAssemblyReference.cache
+D:\Algorithms\Quick Sort Algorithm\obj\Debug\netcoreapp3.1\Quick Sort Algorithm.AssemblyInfoInputs.cache
+D:\Algorithms\Quick Sort Algorithm\obj\Debug\netcoreapp3.1\Quick Sort Algorithm.AssemblyInfo.cs
+D:\Algorithms\Quick Sort Algorithm\obj\Debug\netcoreapp3.1\Quick Sort Algorithm.csproj.CoreCompileInputs.cache
+D:\Algorithms\Quick Sort Algorithm\obj\Debug\netcoreapp3.1\Quick Sort Algorithm.dll
+D:\Algorithms\Quick Sort Algorithm\obj\Debug\netcoreapp3.1\Quick Sort Algorithm.pdb
+D:\Algorithms\Quick Sort Algorithm\obj\Debug\netcoreapp3.1\Quick Sort Algorithm.genruntimeconfig.cache

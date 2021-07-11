@@ -1,0 +1,12 @@
+D:\Algorithms\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+D:\Algorithms\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+D:\Algorithms\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+D:\Algorithms\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+D:\Algorithms\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+D:\Algorithms\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+D:\Algorithms\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+D:\Algorithms\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+D:\Algorithms\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+D:\Algorithms\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+D:\Algorithms\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+D:\Algorithms\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache

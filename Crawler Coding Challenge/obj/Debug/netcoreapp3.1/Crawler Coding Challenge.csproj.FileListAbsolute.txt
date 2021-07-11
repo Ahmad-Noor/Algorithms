@@ -1,0 +1,15 @@
+D:\Algorithms\Crawler Coding Challenge\bin\Debug\netcoreapp3.1\Crawler Coding Challenge.exe
+D:\Algorithms\Crawler Coding Challenge\bin\Debug\netcoreapp3.1\Crawler Coding Challenge.deps.json
+D:\Algorithms\Crawler Coding Challenge\bin\Debug\netcoreapp3.1\Crawler Coding Challenge.runtimeconfig.json
+D:\Algorithms\Crawler Coding Challenge\bin\Debug\netcoreapp3.1\Crawler Coding Challenge.runtimeconfig.dev.json
+D:\Algorithms\Crawler Coding Challenge\bin\Debug\netcoreapp3.1\Crawler Coding Challenge.dll
+D:\Algorithms\Crawler Coding Challenge\bin\Debug\netcoreapp3.1\Crawler Coding Challenge.pdb
+D:\Algorithms\Crawler Coding Challenge\obj\Debug\netcoreapp3.1\Crawler Coding Challenge.AssemblyInfoInputs.cache
+D:\Algorithms\Crawler Coding Challenge\obj\Debug\netcoreapp3.1\Crawler Coding Challenge.AssemblyInfo.cs
+D:\Algorithms\Crawler Coding Challenge\obj\Debug\netcoreapp3.1\Crawler Coding Challenge.dll
+D:\Algorithms\Crawler Coding Challenge\obj\Debug\netcoreapp3.1\Crawler Coding Challenge.pdb
+D:\Algorithms\Crawler Coding Challenge\obj\Debug\netcoreapp3.1\Crawler Coding Challenge.genruntimeconfig.cache
+D:\Algorithms\Crawler Coding Challenge\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\Algorithms\Crawler Coding Challenge\obj\Debug\netcoreapp3.1\Crawler Coding Challenge.csprojAssemblyReference.cache
+D:\Algorithms\Crawler Coding Challenge\obj\Debug\netcoreapp3.1\Crawler Coding Challenge.csproj.CoreCompileInputs.cache
+D:\Algorithms\Crawler Coding Challenge\obj\Debug\netcoreapp3.1\Crawler Coding Challenge.csproj.CopyComplete

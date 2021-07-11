@@ -1,0 +1,12 @@
+D:\Algorithms\Union and Intersection\bin\Debug\netcoreapp3.1\Union and Intersection.exe
+D:\Algorithms\Union and Intersection\bin\Debug\netcoreapp3.1\Union and Intersection.deps.json
+D:\Algorithms\Union and Intersection\bin\Debug\netcoreapp3.1\Union and Intersection.runtimeconfig.json
+D:\Algorithms\Union and Intersection\bin\Debug\netcoreapp3.1\Union and Intersection.runtimeconfig.dev.json
+D:\Algorithms\Union and Intersection\bin\Debug\netcoreapp3.1\Union and Intersection.dll
+D:\Algorithms\Union and Intersection\bin\Debug\netcoreapp3.1\Union and Intersection.pdb
+D:\Algorithms\Union and Intersection\obj\Debug\netcoreapp3.1\Union and Intersection.AssemblyInfoInputs.cache
+D:\Algorithms\Union and Intersection\obj\Debug\netcoreapp3.1\Union and Intersection.AssemblyInfo.cs
+D:\Algorithms\Union and Intersection\obj\Debug\netcoreapp3.1\Union and Intersection.csproj.CoreCompileInputs.cache
+D:\Algorithms\Union and Intersection\obj\Debug\netcoreapp3.1\Union and Intersection.dll
+D:\Algorithms\Union and Intersection\obj\Debug\netcoreapp3.1\Union and Intersection.pdb
+D:\Algorithms\Union and Intersection\obj\Debug\netcoreapp3.1\Union and Intersection.genruntimeconfig.cache

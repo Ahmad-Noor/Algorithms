@@ -1,0 +1,12 @@
+D:\Algorithms\Knapsack problem\obj\Debug\netcoreapp3.1\Knapsack problem.AssemblyInfoInputs.cache
+D:\Algorithms\Knapsack problem\obj\Debug\netcoreapp3.1\Knapsack problem.AssemblyInfo.cs
+D:\Algorithms\Knapsack problem\obj\Debug\netcoreapp3.1\Knapsack problem.csproj.CoreCompileInputs.cache
+D:\Algorithms\Knapsack problem\bin\Debug\netcoreapp3.1\Knapsack problem.exe
+D:\Algorithms\Knapsack problem\bin\Debug\netcoreapp3.1\Knapsack problem.deps.json
+D:\Algorithms\Knapsack problem\bin\Debug\netcoreapp3.1\Knapsack problem.runtimeconfig.json
+D:\Algorithms\Knapsack problem\bin\Debug\netcoreapp3.1\Knapsack problem.runtimeconfig.dev.json
+D:\Algorithms\Knapsack problem\bin\Debug\netcoreapp3.1\Knapsack problem.dll
+D:\Algorithms\Knapsack problem\bin\Debug\netcoreapp3.1\Knapsack problem.pdb
+D:\Algorithms\Knapsack problem\obj\Debug\netcoreapp3.1\Knapsack problem.dll
+D:\Algorithms\Knapsack problem\obj\Debug\netcoreapp3.1\Knapsack problem.pdb
+D:\Algorithms\Knapsack problem\obj\Debug\netcoreapp3.1\Knapsack problem.genruntimeconfig.cache

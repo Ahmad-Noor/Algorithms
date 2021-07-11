@@ -1,0 +1,13 @@
+D:\Algorithms\Common elements in three sorted arrays\bin\Debug\netcoreapp3.1\Common elements in three sorted arrays.exe
+D:\Algorithms\Common elements in three sorted arrays\bin\Debug\netcoreapp3.1\Common elements in three sorted arrays.deps.json
+D:\Algorithms\Common elements in three sorted arrays\bin\Debug\netcoreapp3.1\Common elements in three sorted arrays.runtimeconfig.json
+D:\Algorithms\Common elements in three sorted arrays\bin\Debug\netcoreapp3.1\Common elements in three sorted arrays.runtimeconfig.dev.json
+D:\Algorithms\Common elements in three sorted arrays\bin\Debug\netcoreapp3.1\Common elements in three sorted arrays.dll
+D:\Algorithms\Common elements in three sorted arrays\bin\Debug\netcoreapp3.1\Common elements in three sorted arrays.pdb
+D:\Algorithms\Common elements in three sorted arrays\obj\Debug\netcoreapp3.1\Common elements in three sorted arrays.AssemblyInfoInputs.cache
+D:\Algorithms\Common elements in three sorted arrays\obj\Debug\netcoreapp3.1\Common elements in three sorted arrays.AssemblyInfo.cs
+D:\Algorithms\Common elements in three sorted arrays\obj\Debug\netcoreapp3.1\Common elements in three sorted arrays.csproj.CoreCompileInputs.cache
+D:\Algorithms\Common elements in three sorted arrays\obj\Debug\netcoreapp3.1\Common elements in three sorted arrays.dll
+D:\Algorithms\Common elements in three sorted arrays\obj\Debug\netcoreapp3.1\Common elements in three sorted arrays.pdb
+D:\Algorithms\Common elements in three sorted arrays\obj\Debug\netcoreapp3.1\Common elements in three sorted arrays.genruntimeconfig.cache
+D:\Algorithms\Common elements in three sorted arrays\obj\Debug\netcoreapp3.1\Common elements in three sorted arrays.csprojAssemblyReference.cache

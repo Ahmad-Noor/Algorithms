@@ -1,0 +1,13 @@
+D:\Algorithms\Math Function\bin\Debug\netcoreapp3.1\Math Function.exe
+D:\Algorithms\Math Function\bin\Debug\netcoreapp3.1\Math Function.deps.json
+D:\Algorithms\Math Function\bin\Debug\netcoreapp3.1\Math Function.runtimeconfig.json
+D:\Algorithms\Math Function\bin\Debug\netcoreapp3.1\Math Function.runtimeconfig.dev.json
+D:\Algorithms\Math Function\bin\Debug\netcoreapp3.1\Math Function.dll
+D:\Algorithms\Math Function\bin\Debug\netcoreapp3.1\Math Function.pdb
+D:\Algorithms\Math Function\obj\Debug\netcoreapp3.1\Math Function.AssemblyInfoInputs.cache
+D:\Algorithms\Math Function\obj\Debug\netcoreapp3.1\Math Function.AssemblyInfo.cs
+D:\Algorithms\Math Function\obj\Debug\netcoreapp3.1\Math Function.csproj.CoreCompileInputs.cache
+D:\Algorithms\Math Function\obj\Debug\netcoreapp3.1\Math Function.dll
+D:\Algorithms\Math Function\obj\Debug\netcoreapp3.1\Math Function.pdb
+D:\Algorithms\Math Function\obj\Debug\netcoreapp3.1\Math Function.genruntimeconfig.cache
+D:\Algorithms\Math Function\obj\Debug\netcoreapp3.1\Math Function.csprojAssemblyReference.cache

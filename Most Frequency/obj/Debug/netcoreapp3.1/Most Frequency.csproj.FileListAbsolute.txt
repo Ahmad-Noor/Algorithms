@@ -1,0 +1,13 @@
+D:\Algorithms\Most Frequency\bin\Debug\netcoreapp3.1\Most Frequency.exe
+D:\Algorithms\Most Frequency\bin\Debug\netcoreapp3.1\Most Frequency.deps.json
+D:\Algorithms\Most Frequency\bin\Debug\netcoreapp3.1\Most Frequency.runtimeconfig.json
+D:\Algorithms\Most Frequency\bin\Debug\netcoreapp3.1\Most Frequency.runtimeconfig.dev.json
+D:\Algorithms\Most Frequency\bin\Debug\netcoreapp3.1\Most Frequency.dll
+D:\Algorithms\Most Frequency\bin\Debug\netcoreapp3.1\Most Frequency.pdb
+D:\Algorithms\Most Frequency\obj\Debug\netcoreapp3.1\Most Frequency.AssemblyInfoInputs.cache
+D:\Algorithms\Most Frequency\obj\Debug\netcoreapp3.1\Most Frequency.AssemblyInfo.cs
+D:\Algorithms\Most Frequency\obj\Debug\netcoreapp3.1\Most Frequency.csproj.CoreCompileInputs.cache
+D:\Algorithms\Most Frequency\obj\Debug\netcoreapp3.1\Most Frequency.dll
+D:\Algorithms\Most Frequency\obj\Debug\netcoreapp3.1\Most Frequency.pdb
+D:\Algorithms\Most Frequency\obj\Debug\netcoreapp3.1\Most Frequency.genruntimeconfig.cache
+D:\Algorithms\Most Frequency\obj\Debug\netcoreapp3.1\Most Frequency.csprojAssemblyReference.cache

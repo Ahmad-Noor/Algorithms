@@ -1,0 +1,13 @@
+D:\Algorithms\Merge two sorted arrays\bin\Debug\netcoreapp3.1\Merge two sorted arrays.exe
+D:\Algorithms\Merge two sorted arrays\bin\Debug\netcoreapp3.1\Merge two sorted arrays.deps.json
+D:\Algorithms\Merge two sorted arrays\bin\Debug\netcoreapp3.1\Merge two sorted arrays.runtimeconfig.json
+D:\Algorithms\Merge two sorted arrays\bin\Debug\netcoreapp3.1\Merge two sorted arrays.runtimeconfig.dev.json
+D:\Algorithms\Merge two sorted arrays\bin\Debug\netcoreapp3.1\Merge two sorted arrays.dll
+D:\Algorithms\Merge two sorted arrays\bin\Debug\netcoreapp3.1\Merge two sorted arrays.pdb
+D:\Algorithms\Merge two sorted arrays\obj\Debug\netcoreapp3.1\Merge two sorted arrays.csprojAssemblyReference.cache
+D:\Algorithms\Merge two sorted arrays\obj\Debug\netcoreapp3.1\Merge two sorted arrays.AssemblyInfoInputs.cache
+D:\Algorithms\Merge two sorted arrays\obj\Debug\netcoreapp3.1\Merge two sorted arrays.AssemblyInfo.cs
+D:\Algorithms\Merge two sorted arrays\obj\Debug\netcoreapp3.1\Merge two sorted arrays.csproj.CoreCompileInputs.cache
+D:\Algorithms\Merge two sorted arrays\obj\Debug\netcoreapp3.1\Merge two sorted arrays.dll
+D:\Algorithms\Merge two sorted arrays\obj\Debug\netcoreapp3.1\Merge two sorted arrays.pdb
+D:\Algorithms\Merge two sorted arrays\obj\Debug\netcoreapp3.1\Merge two sorted arrays.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Algorithms\Number of Islands\bin\Debug\netcoreapp3.1\Number of Islands.exe
+D:\Algorithms\Number of Islands\bin\Debug\netcoreapp3.1\Number of Islands.deps.json
+D:\Algorithms\Number of Islands\bin\Debug\netcoreapp3.1\Number of Islands.runtimeconfig.json
+D:\Algorithms\Number of Islands\bin\Debug\netcoreapp3.1\Number of Islands.runtimeconfig.dev.json
+D:\Algorithms\Number of Islands\bin\Debug\netcoreapp3.1\Number of Islands.dll
+D:\Algorithms\Number of Islands\bin\Debug\netcoreapp3.1\Number of Islands.pdb
+D:\Algorithms\Number of Islands\obj\Debug\netcoreapp3.1\Number of Islands.AssemblyInfoInputs.cache
+D:\Algorithms\Number of Islands\obj\Debug\netcoreapp3.1\Number of Islands.AssemblyInfo.cs
+D:\Algorithms\Number of Islands\obj\Debug\netcoreapp3.1\Number of Islands.csproj.CoreCompileInputs.cache
+D:\Algorithms\Number of Islands\obj\Debug\netcoreapp3.1\Number of Islands.dll
+D:\Algorithms\Number of Islands\obj\Debug\netcoreapp3.1\Number of Islands.pdb
+D:\Algorithms\Number of Islands\obj\Debug\netcoreapp3.1\Number of Islands.genruntimeconfig.cache
+D:\Algorithms\Number of Islands\obj\Debug\netcoreapp3.1\Number of Islands.csprojAssemblyReference.cache

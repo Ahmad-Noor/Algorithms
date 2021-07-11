@@ -1,0 +1,13 @@
+D:\Algorithms\Depth First Search using List\bin\Debug\netcoreapp3.1\Depth First Search using List.exe
+D:\Algorithms\Depth First Search using List\bin\Debug\netcoreapp3.1\Depth First Search using List.deps.json
+D:\Algorithms\Depth First Search using List\bin\Debug\netcoreapp3.1\Depth First Search using List.runtimeconfig.json
+D:\Algorithms\Depth First Search using List\bin\Debug\netcoreapp3.1\Depth First Search using List.runtimeconfig.dev.json
+D:\Algorithms\Depth First Search using List\bin\Debug\netcoreapp3.1\Depth First Search using List.dll
+D:\Algorithms\Depth First Search using List\bin\Debug\netcoreapp3.1\Depth First Search using List.pdb
+D:\Algorithms\Depth First Search using List\obj\Debug\netcoreapp3.1\Depth First Search using List.csprojAssemblyReference.cache
+D:\Algorithms\Depth First Search using List\obj\Debug\netcoreapp3.1\Depth First Search using List.AssemblyInfoInputs.cache
+D:\Algorithms\Depth First Search using List\obj\Debug\netcoreapp3.1\Depth First Search using List.AssemblyInfo.cs
+D:\Algorithms\Depth First Search using List\obj\Debug\netcoreapp3.1\Depth First Search using List.csproj.CoreCompileInputs.cache
+D:\Algorithms\Depth First Search using List\obj\Debug\netcoreapp3.1\Depth First Search using List.dll
+D:\Algorithms\Depth First Search using List\obj\Debug\netcoreapp3.1\Depth First Search using List.pdb
+D:\Algorithms\Depth First Search using List\obj\Debug\netcoreapp3.1\Depth First Search using List.genruntimeconfig.cache

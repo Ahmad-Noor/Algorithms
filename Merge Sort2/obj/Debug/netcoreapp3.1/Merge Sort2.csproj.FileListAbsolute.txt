@@ -1,0 +1,12 @@
+D:\Algorithms\Merge Sort2\bin\Debug\netcoreapp3.1\Merge Sort2.exe
+D:\Algorithms\Merge Sort2\bin\Debug\netcoreapp3.1\Merge Sort2.deps.json
+D:\Algorithms\Merge Sort2\bin\Debug\netcoreapp3.1\Merge Sort2.runtimeconfig.json
+D:\Algorithms\Merge Sort2\bin\Debug\netcoreapp3.1\Merge Sort2.runtimeconfig.dev.json
+D:\Algorithms\Merge Sort2\bin\Debug\netcoreapp3.1\Merge Sort2.dll
+D:\Algorithms\Merge Sort2\bin\Debug\netcoreapp3.1\Merge Sort2.pdb
+D:\Algorithms\Merge Sort2\obj\Debug\netcoreapp3.1\Merge Sort2.AssemblyInfoInputs.cache
+D:\Algorithms\Merge Sort2\obj\Debug\netcoreapp3.1\Merge Sort2.AssemblyInfo.cs
+D:\Algorithms\Merge Sort2\obj\Debug\netcoreapp3.1\Merge Sort2.csproj.CoreCompileInputs.cache
+D:\Algorithms\Merge Sort2\obj\Debug\netcoreapp3.1\Merge Sort2.dll
+D:\Algorithms\Merge Sort2\obj\Debug\netcoreapp3.1\Merge Sort2.pdb
+D:\Algorithms\Merge Sort2\obj\Debug\netcoreapp3.1\Merge Sort2.genruntimeconfig.cache
